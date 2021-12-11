@@ -118,3 +118,6 @@ p {
 .rounded {
     border-radius: 0.25rem !important;
 }
+@media(min-width:500px){
+    h1{font-size:70px;}
+}
