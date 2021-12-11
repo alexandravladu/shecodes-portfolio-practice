@@ -118,6 +118,9 @@ p {
 .rounded {
     border-radius: 0.25rem !important;
 }
-@media(min-width:500px){
-    h1{font-size:70px;}
+@media(max-width: 576px) {
+    h1 {
+        font-size: 48px;
+        line-height: 1.5;
+    }
 }
